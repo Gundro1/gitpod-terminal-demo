@@ -1,0 +1,4 @@
+# .gitpod.yml
+tasks:
+  - init: echo "Welcome to your Gitpod terminal!"
+    command: bash
